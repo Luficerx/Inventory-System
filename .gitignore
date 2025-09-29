@@ -19,7 +19,7 @@
 /log.txt
 /save_dump.txt
 /traceback.txt
-
+.vscode/
 # Launcher-generated files.
 /dialogue.tab
 /dialogue.txt
